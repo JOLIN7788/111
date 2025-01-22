@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    background-color: rgb(255, 154, 208);
+}
+
+p{
+    background-color: rgb(220, 255, 185);
+    border:solid black 3px;
+}
+
+#second{
+    background-color: azure
+  
+}
+
+.items{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
